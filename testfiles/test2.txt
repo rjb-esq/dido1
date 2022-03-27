@@ -1,0 +1,9 @@
+* Diary
+** 2022
+*** Today's entry
+* Extra header to throw things off
+ :PROPERTIES:
+ :CREATED:  [1989-04-16 Sun 09:56]
+ :END:
+
+Secret details!!

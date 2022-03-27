@@ -1,0 +1,8 @@
+* Diary
+** 2022
+*** Today's entry
+ :PROPERTIES:
+ :CREATED:  [2022-03-20 Sun 16:56]
+ :END:
+
+Secret details!!
